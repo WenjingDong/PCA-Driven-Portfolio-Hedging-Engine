@@ -1,2 +1,2 @@
-This project implements a bond portfolio hedging algorithm using Principal Component Analysis (PCA) to model risk. The goal is to find 1-, 2-, or 3-instrument hedge combinations that minimize projected variance exposure across the top 3 PCA dimensions of historical bond price movements.
+This project implements a bond portfolio hedging algorithm using Principal Component Analysis (PCA) to model risk. The goal is to find 1-, 2-, or 3-instrument hedge combinations that minimize projected variance exposure across the top 3 PCA dimensions of historical bond yield movements.
 Originally developed for a portfolio risk control system at a major financial institution, this version recreates the core idea using open data and simplified assumptions for public demonstration.
